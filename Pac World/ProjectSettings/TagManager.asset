@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Power Pellet
+  - Bonus Item
+  - Power Up Material
+  - bonusItemSpawn
+  - Pellets
+  - MiniMap
+  - Pellet
+  - EndGame.UI
+  - GameOver
+  - Ghost
+  - Map
+  - Ghost Spawn Area
+  - ghostSpawnBounds
+  - timer
+  - door
+  - walls
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MiniMap
+  - Water
+  - UI
+  - EndGame
+  - GameOver
+  - Map
+  - Door
+  - Ghost Resporn
+  - Ghost
+  - Walls
+  - Respawn
+  - Enemys
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameOver
+    uniqueID: 3649009185
+    locked: 0
+  - name: Mini Map
+    uniqueID: 1736887763
+    locked: 0
